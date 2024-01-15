@@ -6,7 +6,9 @@ tasks to improve their stats to win the game.
 
 # Demo
 ## Main Screen
-![Screenshot_20240115_152816_Chrome](https://github.com/StevenChenWaiHo/ICPASS-Famine24-2022/assets/122108964/1a02dcb3-30c1-4ca0-9119-f2e90e3938d0)
+![Screenshot_20240115_152816_Chrome](https://github.com/StevenChenWaiHo/ICPASS-Famine24-2022/assets/122108964/5503f897-1949-42a9-b781-288afa8364b8)
+
+
 
 ## Admin Page
 
